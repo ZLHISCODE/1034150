@@ -1,0 +1,10 @@
+mdlPublic = 0, 0, 0, 0, C
+frmUserLogin = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmSplash = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+mdlMain = 0, 0, 0, 0, C
+FrmChangePass = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+clsFtp = 0, 0, 0, 0, C
+frmPACSGate = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmUpdateDB = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+clsTaskIcon = 0, 0, 0, 0, C
+frmShowLog = 0, 0, 0, 0, C, 0, 0, 0, 0, C

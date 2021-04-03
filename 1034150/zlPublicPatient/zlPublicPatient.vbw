@@ -1,0 +1,8 @@
+clsPublicPatient = 0, 0, 0, 0, C
+mdlPublic = 0, 0, 0, 0, C
+frmPatiImageGatherer = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmModiPatiBaseInfo = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmListSel = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+mdlPatient = 0, 0, 0, 0, C
+SquareCard = 0, 0, 0, 0, C
+mdlAPI = 0, 0, 0, 0, C

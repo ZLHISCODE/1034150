@@ -1,0 +1,16 @@
+mdlFunctions = 0, 0, 0, 0, C
+cRTFCell = 0, 0, 0, 0, C
+cRTFCells = 0, 0, 0, 0, C
+cRTFDocument = 0, 0, 0, 0, C
+cRTFNode = 0, 0, 0, 0, C
+cRTFNodes = 0, 0, 0, 0, C
+cRTFParagraph = 0, 0, 0, 0, C
+cRTFParagraphs = 0, 0, 0, 0, C
+cRTFPicture = 0, 0, 0, 0, C
+cRTFPictures = 0, 0, 0, 0, C
+cRTFRow = 0, 0, 0, 0, C
+cRTFRows = 0, 0, 0, 0, C
+cRTFTable = 0, 0, 0, 0, C
+cRTFTables = 0, 0, 0, 0, C
+cRTFText = 0, 0, 0, 0, C
+cRTFTexts = 0, 0, 0, 0, C

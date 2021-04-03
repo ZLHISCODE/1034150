@@ -1,0 +1,7 @@
+clsActMain = 154, 154, 1131, 730, 
+mdlHisCrust = 0, 0, 0, 0, C
+mdlActmain = 0, 0, 0, 0, C
+frmSelClient = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmTmr = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+clsRelogin = 0, 0, 0, 0, C
+clsConnect = 0, 0, 0, 0, C

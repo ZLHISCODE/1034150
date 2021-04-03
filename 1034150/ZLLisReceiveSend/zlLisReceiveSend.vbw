@@ -1,0 +1,3 @@
+frmMain = 0, 0, 0, 0, C, 25, 25, 1223, 686, C
+mdlReceiveSend = 0, 0, 0, 0, C
+mdlTrayIcon = 0, 0, 0, 0, C
